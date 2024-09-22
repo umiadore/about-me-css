@@ -1,0 +1,25 @@
+*{
+    text-align: center;
+}
+h1 {
+    color: rgb(241, 97, 0);
+}
+.css-link {
+    color: rgb(241, 97, 0);
+}
+
+.css-intouch {
+    font-style: italic;
+    font-family: serif;
+    font-size: 22px;
+    background-color: rgb(255, 241, 161);
+}
+.css-magor {
+text-decoration: underline;
+font-size: 18px;
+color: brown;
+}
+
+.img-corrections {
+    width: 300px;
+}
